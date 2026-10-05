@@ -67,6 +67,7 @@ class WordAnalyzer:
         print("-----------------------------\n")
 
 
+# Main function with menu loop for file selection
 def main():
     """Main function to run the word analyzer."""
     print("--- Word Analyzer ---")
