@@ -7,7 +7,7 @@ Date: October 3, 2026"""
 from pathlib import Path
 import string
 
-# Class to analyze word frequencies using pathlib and string modules
+# WordAnalyzer class uses pathlib for file handling and string for text processing
 class WordAnalyzer:
     """A class to analyze word frequencies in a text file."""
     
