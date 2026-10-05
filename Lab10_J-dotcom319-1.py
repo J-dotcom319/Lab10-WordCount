@@ -16,6 +16,7 @@ class WordAnalyzer:
         self.__filepath = Path(filepath)
         self.__frequencies = {}
 
+  
    # Process file with error handling for FileNotFound and exceptions 
     def process_file(self):
         """Process the file and count word frequencies."""
